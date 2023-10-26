@@ -1,0 +1,74 @@
+body{
+    background-image:url( guerreros.jpg) ;
+    
+}
+#Contenedor{ 
+    width: 960px;
+    height:768px ;
+    background-color: red;
+    margin-left: auto;
+    margin-right: auto;
+}
+header{
+    width: 960px;
+    height: 150px;
+    background-color: aqua;
+    margin-left: auto;
+    margin-right: auto;
+}
+#logo{
+    width: 200px;
+    height: 150px;
+    background-color: gray;
+}
+#menu{
+    width: 300px;
+    height: 150px;
+    background-color: yellow;
+
+}
+#columna_1{
+    width: 155px;
+    height: 500px;
+    background-color: fuchsia;
+    float: right;
+
+
+}
+#columna_2{
+ width: 155px;
+    height: 500px;
+    background-color:p;
+    float: right;}
+ aside{
+    position: fixed;
+    right: 200px;
+    bottom: 200px;
+    background-color: yellow;
+    
+ }
+ #dragon{
+    background-color: chartreuse;
+    position: fixed;
+    width:40px;
+    height: 40px;
+    right: 10px;
+    bottom:1px;
+    
+ }
+ footer{
+    width:960px;
+    height: 100px;
+    background-color: orange;
+    margin-left: auto;
+    margin-right: auto;
+    clear: both;
+    clear: both;
+ }
+ article{
+    width: 600px;
+    height: 300px; /* Un valor de altura adecuado */
+    background-color: black;
+ }
+
+
